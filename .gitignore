@@ -1,5 +1,11 @@
-code/Lib
+# Ignore Python virtual environment folders
+myenv/
+
+# Ignore __pycache__ folders
 __pycache__/
-code/Scripts
+
+# Ignore compiled Python files
 *.pyc
-code/src/*.py
+
+# Ignore specific directories and files
+code/src/
