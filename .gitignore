@@ -2,4 +2,4 @@ code/Lib
 __pycache__/
 code/Scripts
 *.pyc
-
+code/src/*.py
