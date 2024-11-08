@@ -8,4 +8,4 @@ __pycache__/
 *.pyc
 
 # Ignore specific directories and files
-code/src/
+
