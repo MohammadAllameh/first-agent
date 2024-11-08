@@ -1,0 +1,5 @@
+code/Lib
+__pycache__/
+code/Scripts
+*.pyc
+
